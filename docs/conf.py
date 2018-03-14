@@ -56,7 +56,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'pyshop'
-copyright = u"2016, Neil Jarvis"
+copyright = u"2016-2018, Neil Jarvis"
 
 # The version info for the project you're documenting, acts as replacement
 # for |version| and |release|, also used in various other places throughout
